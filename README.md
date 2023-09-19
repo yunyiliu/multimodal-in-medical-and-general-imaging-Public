@@ -22,7 +22,7 @@ This repository includes resources on several applications of multi-modal learni
 ## Visual Question Answering ![](https://img.shields.io/badge/VQA-green)
 
 
-## Image Report Generation ![](https://img.shields.io/badge/Image Report Generation-grey)
+## Image Report Generation ![](https://img.shields.io/badge/ImageReportGeneration-grey)
 
 
 ## Visual Grounding ![](https://img.shields.io/badge/VG-yellow)
