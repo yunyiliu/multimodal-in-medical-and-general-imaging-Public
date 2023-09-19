@@ -19,19 +19,19 @@ This repository includes resources on several applications of multi-modal learni
 - [Medical Visual Question Answering](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-visual-question-answering)
 - [Medical Vision-Language Model](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-vision-language-model)
 
-## Visual Question Answering ![](https://img.shields.io/badge/VQA)
+## Visual Question Answering ![](https://img.shields.io/badge/VQA-green)
 
 
-## Image Report Generation ![](https://img.shields.io/badge/Image Report Generation)
+## Image Report Generation ![](https://img.shields.io/badge/Image Report Generation-grey)
 
 
-## Visual Grounding ![](https://img.shields.io/badge/VG)
+## Visual Grounding ![](https://img.shields.io/badge/VG-yellow)
 
 
-## Visual Question Grounding ![](https://img.shields.io/badge/VQG)
+## Visual Question Grounding ![](https://img.shields.io/badge/VQG-black)
 
 
-## Multimodal with LLM  ![](https://img.shields.io/badge/MLLM)
+## Multimodal with LLM  ![](https://img.shields.io/badge/MLLM-purple)
 
 
 ## Survey ![](https://img.shields.io/badge/survey-red)
