@@ -28,13 +28,13 @@ This repository includes resources on several applications of multi-modal learni
 - [**CVPR 2023**] Generative Bias for Robust Visual Question Answering [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Cho_Generative_Bias_for_Robust_Visual_Question_Answering_CVPR_2023_paper.html)
 - [**CVPR 2023**] Prompting Large Language Models With Answer Heuristics for Knowledge-Based Visual Question Answering [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Shao_Prompting_Large_Language_Models_With_Answer_Heuristics_for_Knowledge-Based_Visual_CVPR_2023_paper.html)
 - [**IEEE Transactions on Geoscience and Remote Sensing 2023**] A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering [[link]](https://ieeexplore.ieee.org/abstract/document/10018408)
-- [** Applied Intelligence 2023**] Sparse co-attention visual question answering networks based on thresholds [[link]](https://link.springer.com/article/10.1007/s10489-022-03559-4)
-- [** arXiv  2023**] VLSP2022-EVJVQA Challenge: Multilingual Visual Question Answering
+- [**Applied Intelligence 2023**] Sparse co-attention visual question answering networks based on thresholds [[link]](https://link.springer.com/article/10.1007/s10489-022-03559-4)
+- [**arXiv  2023**] VLSP2022-EVJVQA Challenge: Multilingual Visual Question Answering
  [[link]](https://arxiv.org/abs/2302.11752)
-- [** IEEE Transactions on Knowledge and Data Engineering 2023**] Event-Oriented Visual Question Answering: The E-VQA Dataset and Benchmark
+- [**IEEE Transactions on Knowledge and Data Engineering 2023**] Event-Oriented Visual Question Answering: The E-VQA Dataset and Benchmark
  [[link]](https://ieeexplore.ieee.org/abstract/document/10102595)
-- [** joint Urban Remote Sensing Event (JURSE)  2023**] Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images [[link]](https://ieeexplore.ieee.org/abstract/document/10144189)
-- [** European Conference on Information Retrieval. Cham: Springer Nature Switzerland 2023**] Multimodal Inverse Cloze Task for Knowledge-Based Visual Question Answering
+- [**joint Urban Remote Sensing Event (JURSE)  2023**] Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images [[link]](https://ieeexplore.ieee.org/abstract/document/10144189)
+- [**European Conference on Information Retrieval. Cham: Springer Nature Switzerland 2023**] Multimodal Inverse Cloze Task for Knowledge-Based Visual Question Answering
  [[link]](https://link.springer.com/chapter/10.1007/978-3-031-28244-7_36)
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
