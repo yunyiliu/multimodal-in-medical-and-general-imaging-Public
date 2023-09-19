@@ -15,9 +15,22 @@ This repository includes resources on several applications of multi-modal learni
 ## Overview
 
 - [Survey](https://github.com/yunyiiliu/multimodal-in-medical-and-general-imaging-Public#survey)
+- [Visual Question Answering](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#visual-question-answering)
+- [Image Report Generation](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#image-report-generation)
+- [Visual Grounding](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#visual-grounding)
+- [Visual Question Grounding](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#visual-question-grounding)
+- [Multimodal with LLM](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#multimodal-with-llm)
 - [Medical Report Generation](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-report-generation)
 - [Medical Visual Question Answering](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-visual-question-answering)
 - [Medical Vision-Language Model](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-vision-language-model)
+
+## Survey ![](https://img.shields.io/badge/survey-red)
+
+- [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
+- [**arXiv 2022**] Vision+X: A Survey on Multimodal Learning in the Light of Data [[pdf]](https://arxiv.org/pdf/2210.02884)
+- [**arXiv 2023**] Vision Language Models for Vision Tasks: A Survey [[pdf]](https://arxiv.org/pdf/2304.00685) [[code]](https://github.com/jingyi0000/VLM_survey)
+
+
 
 ## Visual Question Answering ![](https://img.shields.io/badge/VQA-green)
 - [**IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**] Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering [[link]](https://ieeexplore.ieee.org/abstract/document/10164132)
@@ -55,11 +68,6 @@ This repository includes resources on several applications of multi-modal learni
 ## Multimodal with LLM  ![](https://img.shields.io/badge/MLLM-purple)
 
 
-## Survey ![](https://img.shields.io/badge/survey-red)
-
-- [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
-- [**arXiv 2022**] Vision+X: A Survey on Multimodal Learning in the Light of Data [[pdf]](https://arxiv.org/pdf/2210.02884)
-- [**arXiv 2023**] Vision Language Models for Vision Tasks: A Survey [[pdf]](https://arxiv.org/pdf/2304.00685) [[code]](https://github.com/jingyi0000/VLM_survey)
 
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
 
@@ -128,8 +136,8 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2023**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604)
   
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
-- [** Findings of the Association for Computational Linguistics: EACL  2023**] PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain? [[link]](https://aclanthology.org/2023.findings-eacl.88/)
-- [** Information Processing & Management 2023**] Medical knowledge-based network for Patient-oriented Visual Question Answering [[link]](https://www.sciencedirect.com/science/article/pii/S0306457322003429)
+- [**Findings of the Association for Computational Linguistics: EACL  2023**] PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain? [[link]](https://aclanthology.org/2023.findings-eacl.88/)
+- [**Information Processing & Management 2023**] Medical knowledge-based network for Patient-oriented Visual Question Answering [[link]](https://www.sciencedirect.com/science/article/pii/S0306457322003429)
 - [**Expert Systems with Applications 2023**] Question-guided feature pyramid network for medical visual question answering [[link]](https://www.sciencedirect.com/science/article/pii/S0957417422021662)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
 - [**MICCAI 2022**] Consistency-preserving Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2206.13296) [[code]](https://github.com/sergiotasconmorales/consistency_vqa)
