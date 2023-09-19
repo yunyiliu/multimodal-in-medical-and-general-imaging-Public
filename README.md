@@ -27,11 +27,22 @@ This repository includes resources on several applications of multi-modal learni
 - [**IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**] Cross-Modal Causal Relational Reasoning for Event-Level Visual Question Answering [[link]](https://ieeexplore.ieee.org/abstract/document/10146482)
 - [**CVPR 2023**] Generative Bias for Robust Visual Question Answering [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Cho_Generative_Bias_for_Robust_Visual_Question_Answering_CVPR_2023_paper.html)
 - [**CVPR 2023**] Prompting Large Language Models With Answer Heuristics for Knowledge-Based Visual Question Answering [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Shao_Prompting_Large_Language_Models_With_Answer_Heuristics_for_Knowledge-Based_Visual_CVPR_2023_paper.html)
-
-
-
-
-
+- [**IEEE Transactions on Geoscience and Remote Sensing 2023**] A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering [[link]](https://ieeexplore.ieee.org/abstract/document/10018408)
+- [** Applied Intelligence 2023**] Sparse co-attention visual question answering networks based on thresholds [[link]](https://link.springer.com/article/10.1007/s10489-022-03559-4)
+- [** arXiv  2023**] VLSP2022-EVJVQA Challenge: Multilingual Visual Question Answering
+ [[link]](https://arxiv.org/abs/2302.11752)
+- [** IEEE Transactions on Knowledge and Data Engineering 2023**] Event-Oriented Visual Question Answering: The E-VQA Dataset and Benchmark
+ [[link]](https://ieeexplore.ieee.org/abstract/document/10102595)
+- [** joint Urban Remote Sensing Event (JURSE)  2023**] Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images [[link]](https://ieeexplore.ieee.org/abstract/document/10144189)
+- [** European Conference on Information Retrieval. Cham: Springer Nature Switzerland 2023**] Multimodal Inverse Cloze Task for Knowledge-Based Visual Question Answering
+ [[link]](https://link.springer.com/chapter/10.1007/978-3-031-28244-7_36)
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
 ## Image Report Generation ![](https://img.shields.io/badge/ImageReportGeneration-grey)
 
 
@@ -117,6 +128,8 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2023**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604)
   
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
+- [** Findings of the Association for Computational Linguistics: EACL  2023**] PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain? [[link]](https://aclanthology.org/2023.findings-eacl.88/)
+- [** Information Processing & Management 2023**] Medical knowledge-based network for Patient-oriented Visual Question Answering [[link]](https://www.sciencedirect.com/science/article/pii/S0306457322003429)
 - [**Expert Systems with Applications 2023**] Question-guided feature pyramid network for medical visual question answering [[link]](https://www.sciencedirect.com/science/article/pii/S0957417422021662)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
 - [**MICCAI 2022**] Consistency-preserving Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2206.13296) [[code]](https://github.com/sergiotasconmorales/consistency_vqa)
