@@ -2,15 +2,6 @@
 This repository includes resources on publications of multi-modal learning in medical and general imaging.
 - [**Name of Conference or Journal + Year**] Paper Name. [[pdf]](link) [[code]](link)
 
-- 
-# Awesome-Multimodal-Applications-In-Medical-Imaging
-
-This repository includes resources on several applications of multi-modal learning in medical imaging.
-
-
-```markdown
-- [**Name of Conference or Journal + Year**] Paper Name. [[pdf]](link) [[code]](link)
-```
 
 ## Overview
 
