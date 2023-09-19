@@ -20,6 +20,16 @@ This repository includes resources on several applications of multi-modal learni
 - [Medical Vision-Language Model](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-vision-language-model)
 
 ## Visual Question Answering ![](https://img.shields.io/badge/VQA-green)
+- [**IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**] Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering [[link]](https://ieeexplore.ieee.org/abstract/document/10164132)
+- [**IEEE/CVF Winter Conference on Applications of Computer Vision 2023**] VLC-BERT: Visual Question Answering With Contextualized Commonsense Knowledge [[link]](https://openaccess.thecvf.com/content/WACV2023/html/Ravi_VLC-BERT_Visual_Question_Answering_With_Contextualized_Commonsense_Knowledge_WACV_2023_paper.html)
+- [**Expert Systems with Applications 2023**] Image captioning for effective use of language models in knowledge-based visual question answering [[link]](https://www.sciencedirect.com/science/article/pii/S0957417422017055)
+- [**Bioengineering 2023**] Vision–Language Model for Visual Question Answering in Medical Imagery [[link]](https://www.mdpi.com/2306-5354/10/3/380)
+- [**IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**] Cross-Modal Causal Relational Reasoning for Event-Level Visual Question Answering [[link]](https://ieeexplore.ieee.org/abstract/document/10146482)
+- [**CVPR 2023**] Generative Bias for Robust Visual Question Answering [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Cho_Generative_Bias_for_Robust_Visual_Question_Answering_CVPR_2023_paper.html)
+- [**CVPR 2023**] Prompting Large Language Models With Answer Heuristics for Knowledge-Based Visual Question Answering [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Shao_Prompting_Large_Language_Models_With_Answer_Heuristics_for_Knowledge-Based_Visual_CVPR_2023_paper.html)
+
+
+
 
 
 ## Image Report Generation ![](https://img.shields.io/badge/ImageReportGeneration-grey)
@@ -107,7 +117,7 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2023**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604)
   
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
-
+- [**Expert Systems with Applications 2023**] Question-guided feature pyramid network for medical visual question answering [[link]](https://www.sciencedirect.com/science/article/pii/S0957417422021662)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
 - [**MICCAI 2022**] Consistency-preserving Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2206.13296) [[code]](https://github.com/sergiotasconmorales/consistency_vqa)
 - [**TMI 2020**] A Question-Centric Model for Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2003.08760) [[code]](https://github.com/vuhoangminh/vqa_medical)
