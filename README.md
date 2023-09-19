@@ -47,7 +47,7 @@ This repository includes resources on publications of multi-modal learning in me
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
-## Image Report Generation ![](https://img.shields.io/badge/ImageReportGeneration-grey)
+## Image Captioning ![](https://img.shields.io/badge/ImageCaptioning-grey)
 
 
 ## Visual Grounding ![](https://img.shields.io/badge/VG-yellow)
