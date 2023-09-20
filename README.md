@@ -40,9 +40,9 @@ This repository includes resources on publications of multi-modal learning in me
 - [**joint Urban Remote Sensing Event (JURSE)  2023**] Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images [[link]](https://ieeexplore.ieee.org/abstract/document/10144189)
 - [**European Conference on Information Retrieval. Cham: Springer Nature Switzerland 2023**] Multimodal Inverse Cloze Task for Knowledge-Based Visual Question Answering
  [[link]](https://link.springer.com/chapter/10.1007/978-3-031-28244-7_36)
-- [**  2023**]  [[link]]()
-- [**  2023**]  [[link]]()
-- [**  2023**]  [[link]]()
+- [**International Journal of Computational Intelligence Systems  2023**] Multiscale Feature Extraction and Fusion of Image and Text in VQA [[link]](https://link.springer.com/article/10.1007/s44196-023-00233-6)
+- [**IEEE Transactions on Image Processing  2023**] Reducing Vision-Answer Biases for Multiple-Choice VQA [[link]](https://ieeexplore.ieee.org/abstract/document/10214252)
+- [**CVPR  2023**] Q: How To Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images! [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Khan_Q_How_To_Specialize_Large_Vision-Language_Models_to_Data-Scarce_VQA_CVPR_2023_paper.html)
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
