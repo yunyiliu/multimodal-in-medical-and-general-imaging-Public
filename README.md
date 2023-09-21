@@ -129,6 +129,7 @@ e07413354875be01a996dc560274708e-Paper.pdf)
 - [**arXiv 2023**] Can Prompt Learning Benefit Radiology Report Generation? [[pdf]](https://arxiv.org/pdf/2308.16269)
 - [**arXiv 2023**] Finding-Aware Anatomical Tokens for Chest X-Ray Automated Reporting [[pdf]](https://arxiv.org/pdf/2308.15961)
 - [**arXiv 2023**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604)
+- [**arXiv 2023**] R2GenGPT: Radiology Report Generation with Frozen LLMs [[pdf]](https://arxiv.org/pdf/2309.09812.pdf)
   
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 ### Before 2020
