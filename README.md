@@ -43,23 +43,37 @@ This repository includes resources on publications of multi-modal learning in me
 - [**International Journal of Computational Intelligence Systems  2023**] Multiscale Feature Extraction and Fusion of Image and Text in VQA [[link]](https://link.springer.com/article/10.1007/s44196-023-00233-6)
 - [**IEEE Transactions on Image Processing  2023**] Reducing Vision-Answer Biases for Multiple-Choice VQA [[link]](https://ieeexplore.ieee.org/abstract/document/10214252)
 - [**CVPR  2023**] Q: How To Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images! [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Khan_Q_How_To_Specialize_Large_Vision-Language_Models_to_Data-Scarce_VQA_CVPR_2023_paper.html)
+- [**CVPR  2023**] EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_EDA_Explicit_Text-Decoupling_and_Dense_Alignment_for_3D_Visual_Grounding_CVPR_2023_paper.html)
+- [**arXiv  2023**] BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs
+ [[link]](https://arxiv.org/abs/2307.08581)
+- [**CVPR  2023**] Improving Visual Grounding by Encouraging Consistent Gradient-Based Explanations [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Improving_Visual_Grounding_by_Encouraging_Consistent_Gradient-Based_Explanations_CVPR_2023_paper.html)
+- [**IEEE Transactions on Pattern Analysis and Machine Intelligence  2023**] TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer [[link]](https://ieeexplore.ieee.org/abstract/document/10187690?casa_token=FyUW4qE5JCsAAAAA:ur02irW8SOurZDwq_SwhNjZgqu6NwJxT9QMnu5ormoxtpofvPwj2if_x4cRPia5E_YqYRBQ1ww)
+- [**arXiv  2023**] Parallel Vertex Diffusion for Unified Visual Grounding [[link]](https://arxiv.org/abs/2303.07216)
+- [**arXiv  2023**] Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding
+ [[link]](https://arxiv.org/abs/2307.09267)
+- [**arXiv  2023**] ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance
+ [[link]](https://arxiv.org/abs/2303.16894)
+- [**ACM Transactions on Multimedia Computing, Communications and Applications  2023**] Transformer-Based Visual Grounding with Cross-Modality Interaction [[link]](https://dl.acm.org/doi/full/10.1145/3587251?casa_token=VK-V8WIN_DUAAAAA%3A5ROvv2J1K9p_33jUdjt3RmJ3vWn3My4X3WPUtRF5rBPfGb-Pf36YYwzaFZEj248b9kek0R89If0FZw)
 - [**  2023**]  [[link]]()
-- [**  2023**]  [[link]]()
-- [**  2023**]  [[link]]()
-- [**  2023**]  [[link]]()
+- 
 ## Image Captioning ![](https://img.shields.io/badge/ImageCaptioning-grey)
 
 
 ## Visual Grounding ![](https://img.shields.io/badge/VG-yellow)
-
+###2023
+- [**CVPR  2023**] Language Adaptive Weight Generation for Multi-Task Visual Grounding [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Su_Language_Adaptive_Weight_Generation_for_Multi-Task_Visual_Grounding_CVPR_2023_paper.html)
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
+- [**  2023**]  [[link]]()
+### 2022
 - [**Proceedings of the AAAI Conference on Artificial Intelligence  2022**] Deconfounded Visual Grounding [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/19983)
 
-### 2022
+### 2021
 - [**ICCV  2021**] TransVG: End-to-End Visual Grounding With Transformers [[link]](https://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html)
 ### 2019
 - [**ICCV  2019**] A Fast and Accurate One-Stage Approach to Visual Grounding [[link]](https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_A_Fast_and_Accurate_One-Stage_Approach_to_Visual_Grounding_ICCV_2019_paper.html)
-- [**CVPR  2018**] Visual Grounding via Accumulated Attention [[link]]
 ### 2018
+- [**CVPR  2018**] Visual Grounding via Accumulated Attention [[link]]
 - (https://openaccess.thecvf.com/content_cvpr_2018/html/Deng_Visual_Grounding_via_CVPR_2018_paper.ht)
 ## Visual Question Grounding ![](https://img.shields.io/badge/VQG-black)
 
