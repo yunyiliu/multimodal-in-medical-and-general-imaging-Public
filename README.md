@@ -52,7 +52,15 @@ This repository includes resources on publications of multi-modal learning in me
 
 ## Visual Grounding ![](https://img.shields.io/badge/VG-yellow)
 
+- [**Proceedings of the AAAI Conference on Artificial Intelligence  2022**] Deconfounded Visual Grounding [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/19983)
 
+### 2022
+- [**ICCV  2021**] TransVG: End-to-End Visual Grounding With Transformers [[link]](https://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html)
+### 2019
+- [**ICCV  2019**] A Fast and Accurate One-Stage Approach to Visual Grounding [[link]](https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_A_Fast_and_Accurate_One-Stage_Approach_to_Visual_Grounding_ICCV_2019_paper.html)
+- [**CVPR  2018**] Visual Grounding via Accumulated Attention [[link]]
+### 2018
+- (https://openaccess.thecvf.com/content_cvpr_2018/html/Deng_Visual_Grounding_via_CVPR_2018_paper.ht)
 ## Visual Question Grounding ![](https://img.shields.io/badge/VQG-black)
 
 
