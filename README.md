@@ -62,6 +62,19 @@ This repository includes resources on publications of multi-modal learning in me
 - [**arXiv  2023**] ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance
  [[link]](https://arxiv.org/abs/2303.16894)
 - [**ACM Transactions on Multimedia Computing, Communications and Applications  2023**] Transformer-Based Visual Grounding with Cross-Modality Interaction [[link]](https://dl.acm.org/doi/full/10.1145/3587251?casa_token=VK-V8WIN_DUAAAAA%3A5ROvv2J1K9p_33jUdjt3RmJ3vWn3My4X3WPUtRF5rBPfGb-Pf36YYwzaFZEj248b9kek0R89If0FZw)
+- [**arXiv  2023**] TreePrompt: Learning to Compose Tree Prompts for Explainable Visual Grounding
+ [[link]](https://arxiv.org/abs/2305.11497)
+- [**2022 IEEE Spoken Language Technology Workshop (SLT)  2023**] YFACC: A Yorùbá Speech–Image Dataset for Cross-Lingual Keyword Localisation Through Visual Grounding [[link]](https://ieeexplore.ieee.org/abstract/document/10023089?casa_token=CIxB0UoCDRAAAAAA:yfJprVieeuww7oP7_ObxhtLTcIsTTX0YSmtT9D0Y3iySQLlAbJJgMJwABbvY53My_KqI-IhAHA)
+- [**ACM  2023**]Language-guided Residual Graph Attention Network and Data Augmentation for Visual Grounding
+  [[link]](https://dl.acm.org/doi/full/10.1145/3604557?casa_token=hCv2lReQECYAAAAA%3AT4Kz2Y61aG5AIGFQDerfHtQlQYbzO0WjBXvZKmmMfbp0TCg3mBgezadJeXgR_SxHwOWPfvet53sFWw)
+- [**arXiv  2023**] CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding
+ [[link]](https://arxiv.org/abs/2305.08685)
+- [**Language-led Visual Grounding for Human Computer Interaction  2023**] Language-led Visual Grounding for Human Computer Interaction
+ [[link]](https://www.preprints.org/manuscript/202306.0959/v1)
+- [**AAAI  2023**] MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25971)
+- [**CVPR  2023**] NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Hsu_NS3D_Neuro-Symbolic_Grounding_of_3D_Objects_and_Relations_CVPR_2023_paper.html)
+- [**2023 IEEE International Conference on Robotics and Automation (ICRA)  2023**] Grounding Language with Visual Affordances over Unstructured Data
+ [[link]](https://ieeexplore.ieee.org/abstract/document/10160396?casa_token=9HMOb9Lfl9oAAAAA:E3raYitaWOMMNPa6ak-dQ8pH6rGhU2erbmN3pnNlKbe8o2ElqKwInDDmpSzH4IdzEhkTXvYE-g)
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
