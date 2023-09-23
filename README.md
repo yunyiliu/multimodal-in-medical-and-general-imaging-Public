@@ -43,6 +43,14 @@ This repository includes resources on publications of multi-modal learning in me
 - [**International Journal of Computational Intelligence Systems  2023**] Multiscale Feature Extraction and Fusion of Image and Text in VQA [[link]](https://link.springer.com/article/10.1007/s44196-023-00233-6)
 - [**IEEE Transactions on Image Processing  2023**] Reducing Vision-Answer Biases for Multiple-Choice VQA [[link]](https://ieeexplore.ieee.org/abstract/document/10214252)
 - [**CVPR  2023**] Q: How To Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images! [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Khan_Q_How_To_Specialize_Large_Vision-Language_Models_to_Data-Scarce_VQA_CVPR_2023_paper.html)
+- [**  2023**]  [[link]]()
+- 
+## Image Captioning ![](https://img.shields.io/badge/ImageCaptioning-grey)
+
+
+## Visual Grounding ![](https://img.shields.io/badge/VG-yellow)
+###2023
+- [**CVPR  2023**] Language Adaptive Weight Generation for Multi-Task Visual Grounding [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Su_Language_Adaptive_Weight_Generation_for_Multi-Task_Visual_Grounding_CVPR_2023_paper.html)
 - [**CVPR  2023**] EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_EDA_Explicit_Text-Decoupling_and_Dense_Alignment_for_3D_Visual_Grounding_CVPR_2023_paper.html)
 - [**arXiv  2023**] BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs
  [[link]](https://arxiv.org/abs/2307.08581)
@@ -54,14 +62,6 @@ This repository includes resources on publications of multi-modal learning in me
 - [**arXiv  2023**] ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance
  [[link]](https://arxiv.org/abs/2303.16894)
 - [**ACM Transactions on Multimedia Computing, Communications and Applications  2023**] Transformer-Based Visual Grounding with Cross-Modality Interaction [[link]](https://dl.acm.org/doi/full/10.1145/3587251?casa_token=VK-V8WIN_DUAAAAA%3A5ROvv2J1K9p_33jUdjt3RmJ3vWn3My4X3WPUtRF5rBPfGb-Pf36YYwzaFZEj248b9kek0R89If0FZw)
-- [**  2023**]  [[link]]()
-- 
-## Image Captioning ![](https://img.shields.io/badge/ImageCaptioning-grey)
-
-
-## Visual Grounding ![](https://img.shields.io/badge/VG-yellow)
-###2023
-- [**CVPR  2023**] Language Adaptive Weight Generation for Multi-Task Visual Grounding [[link]](https://openaccess.thecvf.com/content/CVPR2023/html/Su_Language_Adaptive_Weight_Generation_for_Multi-Task_Visual_Grounding_CVPR_2023_paper.html)
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
 - [**  2023**]  [[link]]()
