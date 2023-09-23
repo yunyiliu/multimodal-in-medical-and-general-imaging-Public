@@ -9,7 +9,6 @@ This repository includes resources on publications of multi-modal learning in me
 - [Visual Question Answering](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#visual-question-answering)
 - [Image Report Generation](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#image-report-generation)
 - [Visual Grounding](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#visual-grounding)
-- [Visual Question Grounding](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#visual-question-grounding)
 - [Multimodal with LLM](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#multimodal-with-llm)
 - [Medical Report Generation](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-report-generation)
 - [Medical Visual Question Answering](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-visual-question-answering)
@@ -88,11 +87,11 @@ This repository includes resources on publications of multi-modal learning in me
 ### 2018
 - [**CVPR  2018**] Visual Grounding via Accumulated Attention [[link]]
 - (https://openaccess.thecvf.com/content_cvpr_2018/html/Deng_Visual_Grounding_via_CVPR_2018_paper.ht)
-## Visual Question Grounding ![](https://img.shields.io/badge/VQG-black)
 
 
 ## Multimodal with LLM  ![](https://img.shields.io/badge/MLLM-purple)
-
+- [**arXiv  2023**] LLaVA-Med:Training a Large Language-and-Vision  Assistant for Biomedicine in OneDay [[link]](https://arxiv.org/abs/2306.00890)
+- [**open-source  2023**] Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities [[link]](https://github.com/cambridgeltl/visual-med-alpaca)
 
 
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
