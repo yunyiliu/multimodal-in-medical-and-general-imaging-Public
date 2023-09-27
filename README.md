@@ -13,6 +13,7 @@ This repository includes resources on publications of multi-modal learning in me
 - [Medical Report Generation](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-report-generation)
 - [Medical Visual Question Answering](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-visual-question-answering)
 - [Medical Vision-Language Model](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#medical-vision-language-model)
+- [Federative Learning Application in Medical Multimodal(FLMM)](https://github.com/yunyiliu/multimodal-in-medical-and-general-imaging-Public#Federative-learning-application-in-medical-multimodal)
 
 ## Survey ![](https://img.shields.io/badge/survey-red)
 
