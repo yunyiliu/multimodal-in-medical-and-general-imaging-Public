@@ -251,6 +251,8 @@ e07413354875be01a996dc560274708e-Paper.pdf)
 - [**arXiv 2023**] Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models [[pdf]](https://arxiv.org/pdf/2308.07706)
 - [**arXiv 2023**] Few-shot medical image classification with simple shape and texture text descriptors using vision-language models [[pdf]](https://arxiv.org/pdf/2308.04005)
 
+---
+
 ## Biological Multi-modal Model ![](https://img.shields.io/badge/Biological_Multi-modal_Model-blue)
 ### 2023
 - [**arXiv 2023**]Prot2Text: Multimodal Protein’s Function Generation with GNNs and Transformers [[pdf]](https://arxiv.org/pdf/2307.14367.pdf)
