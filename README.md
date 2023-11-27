@@ -21,7 +21,7 @@ This repository includes resources on publications of multi-modal learning in me
 - [**arXiv 2022**] Vision+X: A Survey on Multimodal Learning in the Light of Data [[pdf]](https://arxiv.org/pdf/2210.02884)
 - [**arXiv 2023**] Vision Language Models for Vision Tasks: A Survey [[pdf]](https://arxiv.org/pdf/2304.00685) [[code]](https://github.com/jingyi0000/VLM_survey)
 - [**Artif Intell Med 2023**] Medical Visual Question Answering: A Survey [[pdf]](https://arxiv.org/pdf/2111.10056)
-- [**arXiv Nov 3 2023**] Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review [[pdf】】(https://arxiv.org/pdf/2311.01918.pdf)
+- [**arXiv Nov 3 2023**] Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review [[pdf]](https://arxiv.org/pdf/2311.01918.pdf)
 
 
 ## Visual Question Answering ![](https://img.shields.io/badge/VQA-green)
