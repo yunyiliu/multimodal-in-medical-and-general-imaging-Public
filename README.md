@@ -255,7 +255,16 @@ e07413354875be01a996dc560274708e-Paper.pdf)
 - [**arXiv 2023**] Few-shot medical image classification with simple shape and texture text descriptors using vision-language models [[pdf]](https://arxiv.org/pdf/2308.04005)
 
 ---
+## Federative Learning Application in Medical Multimodal(FLMM)
+### 2023
+- [**ACM MM 2023**] FedVQA: Personalized Federated Visual Question Answering over Heterogeneous Scenes [[pdf]](https://dl.acm.org/doi/abs/10.1145/3581783.3611958)
 
+### 2022
+- [**ECCV 2022**] FedVLN: Privacy-Preserving Federated Vision-and-Language Navigation [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_39)
+
+### 2020
+- [**AAAI 2020**] Federated Learning for Vision-and-Language Grounding Problems [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6824)
+ 
 ## Biological Multi-modal Model ![](https://img.shields.io/badge/Biological_Multi-modal_Model-blue)
 ### 2023
 - [**arXiv 2023**]Prot2Text: Multimodal Protein’s Function Generation with GNNs and Transformers [[pdf]](https://arxiv.org/pdf/2307.14367.pdf)
