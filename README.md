@@ -255,7 +255,7 @@ e07413354875be01a996dc560274708e-Paper.pdf)
 - [**arXiv 2023**] Few-shot medical image classification with simple shape and texture text descriptors using vision-language models [[pdf]](https://arxiv.org/pdf/2308.04005)
 
 ---
-## Federative Learning Application in Medical Multimodal(FLMM)
+## Federative Learning Application in Medical Multimodal![](https://img.shields.io/badge/FLMM-green) 
 ### 2023
 - [**ACM MM 2023**] FedVQA: Personalized Federated Visual Question Answering over Heterogeneous Scenes [[pdf]](https://dl.acm.org/doi/abs/10.1145/3581783.3611958)
 
