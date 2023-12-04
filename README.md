@@ -258,6 +258,7 @@ e07413354875be01a996dc560274708e-Paper.pdf)
 ## Federative Learning Application in Medical Multimodal![](https://img.shields.io/badge/FLMM-green) 
 ### 2023
 - [**ACM MM 2023**] FedVQA: Personalized Federated Visual Question Answering over Heterogeneous Scenes [[pdf]](https://dl.acm.org/doi/abs/10.1145/3581783.3611958)
+- [**ACM UbiComp/ISWC 2023**] Inclusive Data Representation in Federated Learning: A Novel Approach Integrating Textual and Visual Prompt [[pdf]](https://dl.acm.org/doi/abs/10.1145/3594739.3612914)
 
 ### 2022
 - [**ECCV 2022**] FedVLN: Privacy-Preserving Federated Vision-and-Language Navigation [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_39)
