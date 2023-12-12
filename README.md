@@ -24,6 +24,7 @@ This repository includes resources on publications of multi-modal learning in me
 - [**arXiv Nov 3 2023**] Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review [[pdf]](https://arxiv.org/pdf/2311.01918.pdf)
 - [**arXiv Oct 14 2023**] Multimodal Federated Learning in Healthcare: a review[[pdf]](https://arxiv.org/abs/2310.09650)
 - [**Sensors 2023**] Multimodal Federated Learning: A Survey[[pdf]](https://www.mdpi.com/1424-8220/23/15/6986)
+- [**Sensors 2023**] A Comprehensive Overview of Large Language Models [[pdf]](https://arxiv.org/abs/2307.06435)
 
 
 ## Visual Question Answering ![](https://img.shields.io/badge/VQA-green)
